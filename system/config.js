@@ -7,9 +7,9 @@ global.APIKeys = {
   'https://api.alyachan.biz.id': 'tGQXJm'
 }
 // Owner number
-global.owner = '6285771647181'
+global.owner = '6289653381067'
 // Owner name
-global.owner_name = 'Watim Sudrajat'
+global.owner_name = 'xy'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -33,9 +33,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© hutao-bot`
+global.botname = `Ghosky`
 // Footer text
-global.footer = 'Instagram - @_wtmsdrjt'
+global.footer = 'Instagram - @w_.nunu'
 // Scraper
 global.scrap = Scraper
 // Function
